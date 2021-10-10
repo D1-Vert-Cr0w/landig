@@ -1,0 +1,58 @@
+.logo {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin: 0px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+
+}
+.MI{
+ justify-content: end;
+}
+.MIi{
+  justify-content: end;
+ }
+
+.ant-menu{
+  justify-content: space-around;
+}
+.ant-menu-title-content{
+  font-size: 20px !important; 
+}
+.ant-layout-header{
+  height: 70px !important;
+}
+    .f_img{
+      position: fixed;
+      top:0;
+      z-index: -1;
+    }
+.r1{
+  margin: auto;
+} 
+.colOne{
+  text-align: center;
+  width: 100%;
+}
+.Circle{
+  height: 67px;
+  width: 67px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+.colGOne{
+  color:white;
+  text-align: center;
+}
+.colGTow{
+  color:white;
+  
+}
+.logoclass{
+  position:fixed;
+  top:0;
+  left:120px;
+  color:white;
+}
